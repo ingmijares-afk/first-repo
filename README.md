@@ -1,2 +1,4 @@
 # first-repo
-I'm trying my first repository
+2025 Jun 30: I'm trying my first repository
+
+2025 july 02: This is my First edited data update.          
